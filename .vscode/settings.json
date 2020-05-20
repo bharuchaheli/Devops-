@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/a4535791-0d7c-4fad-8a7f-3a0ecacdf847/resourceGroups/FirstProjectRG/providers/Microsoft.Web/sites/AppServiceHeli",
+    "appService.deploySubpath": "build"
+}
